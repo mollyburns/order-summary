@@ -1,0 +1,93 @@
+body {
+  background-color: #E0E8FF;
+  margin: 0;
+  text-align: center;
+  font-family: "Tahoma", sans-serif;
+}
+
+a {
+  color: #8870cd;
+  font-size: .8rem;
+  text-decoration: none;
+}
+
+h3 {
+  margin: 30px auto;
+}
+
+h5 {
+  margin: 10px 15px 5px;
+}
+
+h6 {
+  color: gray;
+  font-size: .9rem;
+  font-weight: normal;
+  margin: 0 15px 10px;
+}
+
+table {
+  background-color: #eeeeee;
+  border-radius: 8px;
+  margin: auto;
+  padding: 0;
+}
+
+
+.div2 {
+  background-color: white;
+  bottom: 350px;
+  border-radius: 25px;
+  height: 550px;
+  margin: 0 auto;
+  display: inline-block;
+  position: relative;
+  width: 350px;
+}
+
+.div2 p {
+  color: gray;
+  line-height: 1.5;
+  margin: 15px 40px 30px;
+  font-size: .8rem;
+}
+
+.div2 a {
+  margin-right: 20px;
+  margin-left: 30px;
+}
+
+/* .div2 img {
+  border-radius: 25px 25px 0 0;
+  width: 300px;
+}
+*/
+
+.hero {
+  border-radius: 25px 25px 0 0;
+  width: 350px;
+}
+
+.music {
+  margin-left: 10px;
+  width: 30px;
+}
+
+.payment-button {
+  background-color: #8870cd;
+  border-radius: 8px;
+  color: white;
+  font-size: .7rem;
+  padding: 10px;
+  margin: 10px auto;
+  width: 68%;
+}
+
+.cancel {
+  color: black;
+  font-weight: bold;
+}
+
+.attribution {
+  font-size: .7rem;
+}
